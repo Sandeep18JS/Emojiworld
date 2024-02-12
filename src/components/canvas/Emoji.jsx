@@ -1,5 +1,5 @@
 import { OrbitControls } from '@react-three/drei'
-import Models from './models'
+import Models from './Models'
 
 
 
